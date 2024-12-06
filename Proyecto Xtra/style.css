@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #3c862e;
+    height: 70px;
+    border-radius: 7cap;
+}
+
+.navbar-brad{
+    font-weight: bold;
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
